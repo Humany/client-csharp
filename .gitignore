@@ -27,3 +27,6 @@
 *.exe
 *.out
 *.app
+/HumanyClient/.vs/HumanyClient/v14
+/HumanyClient/bin/Debug
+/HumanyClient/obj/Debug
